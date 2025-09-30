@@ -154,3 +154,12 @@ body {
     color: var(--accent);
     text-decoration: none;
 }
+
+
+/* Reflection
+
+1 – Which sections of the layout felt like a natural fit for Flexbox?
+Header was easy brand left nav right. Buttons also easy side by side. Cards also okay they go to next line.  
+
+2 – Which sections were workable with Flexbox, but felt a bit limited or could be improved?
+Album cards little weird when resize. Grid might be better. Hero text center also a bit hard with flex. */
